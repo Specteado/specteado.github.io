@@ -82,7 +82,7 @@ const startMainTyping = () => {
 }
 
 const switchScreen = () => {
-  document.title = 'Specteadp | Home';
+  document.title = 'Specteado | Home';
 
   $('.intro').fadeOut(1000, () => {
     $('.bg-image').fadeIn(1000);
